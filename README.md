@@ -50,7 +50,7 @@ This version implements a *lite tree mode* visualization, auto-spacing logic, re
 
 ---
 
-## 🧠 Software Overview
+## Software Overview
 
 - **Platform:** Arduino IDE / PlatformIO  
 - **Core Libraries:**

@@ -1,5 +1,5 @@
 /*******************************************************
- * ESP32-C3 MORSE TRAINER v6.1 – YD9CVS (FINAL VISUAL)
+ * ESP32-C3 MORSE TRAINER v6.1 – (FINAL VISUAL)
  * - ST7735 TFT (SPI) + SI5351 (I2C)
  * - Iambic Right-Hand Paddle (GPIO0/1)
  * - Header: WPM + Voltage + Last Decoded Char
