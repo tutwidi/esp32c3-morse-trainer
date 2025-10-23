@@ -1,4 +1,4 @@
-# ESP32-C3 Morse Trainer v7.0 – YD9CVS (Morse Tree Lite)
+# ESP32-C3 Morse Trainer v7.0 – (Morse Tree Lite)
 
 A lightweight visual Morse Code training tool built on **ESP32-C3**, featuring a **ST7735 TFT display** and **SI5351 frequency generator**.  
 This version implements a *lite tree mode* visualization, auto-spacing logic, real-time running text, and tone/LED feedback.
