@@ -86,7 +86,8 @@ This version implements a *lite tree mode* visualization, auto-spacing logic, re
 │ CQ TEST DE YD9CVS │ ← Running text
 └──────────────────────────────┘
 
----
+![Morse_Tree Diagram](Doc/morsetree.png)
+
 
 ## Getting Started
 
