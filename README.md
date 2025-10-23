@@ -115,6 +115,13 @@ Timing auto-adjusts dynamically:
 
 void calcDit() { ditTime = 1200 / WPM; }
 
+
+Notes / Limitations
+
+Important:
+The SI5351 module currently functions as a frequency generator only for tone and timing reference.
+It is not yet capable of full RF transmission output, and additional amplification or filtering stages are required for actual CW transmit operations.
+
 License
 
 MIT License
