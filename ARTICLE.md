@@ -110,7 +110,7 @@ That’s the long-term goal — turning this into a **community learning platfor
 ## How to Get Started
 
 1. Clone or download this repository  
-2. Wire up your hardware following the [Wiring Diagram](docs/wiring.png)  
+2. Wire up your hardware following the [Wiring Diagram](Docs/wiring.jpg)  
 3. Upload `morse_trainer_v7.ino` to your ESP32-C3  
 4. Power up and start keying — see your CW come alive!
 
