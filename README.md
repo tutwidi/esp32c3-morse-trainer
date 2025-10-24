@@ -91,7 +91,7 @@ This version implements a *lite tree mode* visualization, auto-spacing logic, re
 
 ## Getting Started
 
-1. **Connect** all components according to the pin table above.  
+1. **Connect** all components according to the pin table above.  https://github.com/tutwidi/esp32c3-morse-trainer/blob/master/ARTICLE.md
 2. **Open** the `.ino` file in Arduino IDE.  
 3. **Select Board:** `ESP32-C3 Dev Module`.  
 4. **Install Libraries:**
