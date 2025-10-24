@@ -33,7 +33,7 @@ bringing **visual learning, tone feedback, and decoding trees** into one compact
 | **Compact Hardware** | Fits on one ESP32-C3 module + ST7735 TFT + SI5351 signal generator. |
 | **Open Source** | 100% editable, forkable, and customizable. |
 
----
+![Wiring Diagram](Doc/morsetraining.jpeg)
 
 ## Designed for Learning, Built for Experimenting
 
@@ -94,7 +94,8 @@ You can:
 
 > Each contribution — no matter how small — helps keep Morse alive in the digital era.
 
----
+![Wiring Diagram](Doc/soldering.jpeg)
+
 
 ## The Vision Ahead
 
