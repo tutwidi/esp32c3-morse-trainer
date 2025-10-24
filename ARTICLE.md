@@ -118,7 +118,7 @@ That’s the long-term goal — turning this into a **community learning platfor
 
 ## Join the Project
 
-**Repository:** [github.com/YD9CVS/esp32c3-morse-trainer](https://github.com/YD9CVS/esp32c3-morse-trainer)  
+**Repository:** [github.com/YD9CVS/esp32c3-morse-trainer](https://github.com/tutwidi/esp32c3-morse-trainer)  
 **Author:** *I Ketut Widiastawan (YD9CVS)*  
 **Region:** ORARI Local Klungkung – Bali  
 **Language:** English / Bahasa Indonesia  
