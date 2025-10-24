@@ -1,4 +1,5 @@
 # ESP32-C3 Morse Trainer v7.0 – Open Source Project for Radio Amateurs
+![Wiring Diagram](Doc/esp32c3mini.jpg)
 
 ## Re-Discover the Art of Morse Code – In a Modern Way
 
