@@ -134,3 +134,6 @@ All we ask: credit the project and share your improvements!
 
 ---
 
+![Platform](https://img.shields.io/badge/Platform-ESP32--C3-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Build-Stable-success)
